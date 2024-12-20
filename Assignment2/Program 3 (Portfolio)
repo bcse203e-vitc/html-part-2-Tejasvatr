@@ -1,0 +1,81 @@
+<html>
+    <head>
+        <title>
+            Tejasvat
+        </title>
+    </head>
+
+    <body>
+        <header>
+            <h1>Portfolio</h1>
+            <nav>
+                <ul>
+                    <li><a href="#aboutme">About Me</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#contacts">Contacts</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <article>
+                <h2>About Me</h2>
+                <section>
+                    
+                    <p><b>Bio</b></p>
+                    <p>Im John Grayson, and I'm a recent college graduate with a Bachelor's Degree in Web Design.</p><p> I'm seeking a full-time opportunity where I can employ my programming skills</p>
+                    <p><b>Profile Picture</b></p>
+                    <img src="face.png" height="200">
+                    
+                    <p></p>
+                    
+                    
+                    <p><b></b></p>
+                    
+                    <p><b>Description</b></p>
+                    <p></p>
+                </section>
+                <aside>
+                    <p><b>Hobbies</b></p>
+                    <nav>
+                        <ul>
+                            <li>Aquascaping</li>
+                            <li>Campanology</li>
+                            <li>Reading</li>
+                        </ul>
+                    </nav>
+                </aside>
+
+                
+
+                <section>
+                    <h2>Projects</h2>
+                    <p>Links to their description</p>
+                    <nav>
+
+                        <ol>
+                            <li>
+                                Physics
+                                <a href="physics">Physics</a>
+                            </li>
+                            <li>
+                                Chemistry
+                                <a href="chemistry">Chemistry</a>
+                            </li>
+                            <li>
+                                Maths
+                                <a href="maths">Maths</a>
+                            </li>
+                        </ol>
+                    </nav>
+                    
+                </section>
+
+            </article>
+        </main>
+        <footer>
+            <p><b>Links</b></p>
+            <a href="www.githubtejas.com">Github</a>
+            <a href="www.tejasvatr@gmail.com">Email</a>
+        </footer>
+    </body>
+</html>
