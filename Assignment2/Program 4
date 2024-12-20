@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Tejasvat</title>
+</head>
+<body>
+    <header>
+        <h1>Travel Blog</h1>
+        <nav>
+            <ul>
+                <li><a href="#destinations">Destinations</a></li>
+                <li><a href="#tips">Tips</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <article>
+            <h2>Paris - The City of Light</h2>
+            <section>
+                <p>Paris, the capital of France, is one of the most popular tourist destinations in the world. Known for its art, history, and culture, the city attracts millions of visitors each year. A must-see is the Eiffel Tower, and the Louvre Museum is home to some of the world's most famous works of art.</p>
+                <p><img src="f1.webp" height="200"></p>
+            </section>
+
+            <section>
+                <h3>Travel Tips for Paris</h3>
+                <ul>
+                    <li>Learn a few basic French phrases; locals appreciate the effort.</li>
+                    <li>Visit the Eiffel Tower early in the morning to avoid crowds.</li>
+                    <li>Always keep a map or a GPS app for easy navigation through the city.</li>
+                </ul>
+            </section>
+        </article>
+
+        <aside>
+            <h3>Related Destinations</h3>
+            <section>
+                <h4>London</h4>
+                <img src="london.avif" height="200">
+                <p>Visit the historic landmarks like the Big Ben, Tower of London, and Buckingham Palace.</p>
+            </section>
+            <section>
+                <h4>Rome</h4>
+                <img src="rome.jpg" height="200">
+                <p>Explore the ancient ruins, such as the Colosseum and the Roman Forum, and enjoy Italian cuisine.</p>
+            </section>
+        </aside>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Travel Blog. All rights reserved.</p>
+        <p>Contact: <a href="tejasvatblog@example.com">travelblog@example.com</a></p>
+    </footer>
+</body>
+</html>
