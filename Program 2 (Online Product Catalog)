@@ -1,0 +1,69 @@
+<html>
+    <head>
+        <title>
+            Product catalog
+        </title>
+    </head>
+
+    <body>
+        <header>
+            <h1>Online Product Catalog</h1>
+            <nav>
+                <ul>
+                    <li><a href="#electronics">Home</a></li>
+                    <li><a href="#fashion">Fashion</a></li>
+                    <li><a href="#groceries">Groceries</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <article>
+                <h2>Products available</h2>
+                <section>
+                    <h3>Product Images</h3>
+                    <p><b>Apples</b></p>
+                    <img src="apples.jpg" height="200">
+                    <p><b>Description</b></p>
+                    
+                    <p>Apples are a good source of nutrients, including fiber, vitamin C, and antioxidants</p> 
+                    <p>which can help support healthy digestion, brain health, and weight management.
+                    </p>
+                    
+                    <p><b>Dragon fruit</b></p>
+                    <img src="dragon2.jpg" height="200">
+                    <p><b>Description</b></p>
+                    <p>Dragon fruit is a tropical fruit with a sweet flavor and crunchy texture that's often compared to a kiwi or pear.</p><p> It's actually a cactus, and is grown in many parts of the world, including Asia, Mexico, Central and South America, and Israel.</p>
+                    <p><b>Jack Fruit</b></p>
+                    <img src="jack.jfif" height="200">
+                    <p><b>Description</b></p>
+                    <p>The jackfruit is a species of tree in the fig, mulberry, and breadfruit family.</p><p> The jackfruit is the largest tree fruit, reaching as much as 55 kg in weight, 90 cm in length, and 50 cm in diameter.</p><p> A mature jackfruit tree produces some 200 fruits per year, with older trees bearing up to 500 fruits in a year. </p>
+
+                </section>
+
+                
+
+                <section>
+                    <h3>Prices</h3>
+                    <h4>Discounted Prices</h4>
+                    <nav>
+                        <ul>
+                            <li>Apples- Rs 2999</li>
+                            <li>Dragon Fruit- Rs 3999</li>
+                            <li>Jack Fruit- Rs 999</li>
+                        </ul>
+                    </nav>
+                </section>
+
+            </article>
+        </main>
+        <footer>
+            <p>
+               <b> Terms and Conditions </b>
+            </p>
+            <p>
+                ll pages, features and content within this Platform and any material made available for download are the property of Radom, or its licensors or suppliers, as applicable
+            </p>
+            <a href="#contact">Contact</a>
+        </footer>
+    </body>
+</html>
